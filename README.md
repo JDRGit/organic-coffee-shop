@@ -4,6 +4,7 @@ Welcome to the repository for Jaime's Organic Coffee Shop's e-commerce platform.
 
 ## Overview
 
+
 Jaime's Organic Coffee Shop aims to provide an easy and enjoyable online shopping experience for coffee lovers. Our platform highlights our commitment to ethical sourcing, organic and eco-friendly practices, a wide range of unique flavors, and a user-friendly online shopping experience.
 
 ## Features
@@ -22,3 +23,7 @@ git clone https://github.com/yourusername/organic-coffee-shop.git
 cd organic-coffee-shop
 npm install
 ```
+## Screenshots
+
+![App Screenshot](./assets/jaimesorganiccoffeeshop.png)
+
